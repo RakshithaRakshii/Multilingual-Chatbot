@@ -7,11 +7,11 @@ A chatbot supporting English, Tamil, Hindi, Telugu, and Malayalam with real-time
 - AI-powered autocompletion
 - Session-based context management
 
-## Required python libraries
-  -tensorflow
-  -flask
-  -flask-cors
-  -deep_translator
+## Dependencies
+- tensorflow
+- flask
+- flask-cors
+- deep_translator
 
 ### Backend 
   pip install flask flask-cors deep-translator
