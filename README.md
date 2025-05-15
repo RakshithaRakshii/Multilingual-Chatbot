@@ -13,11 +13,7 @@ A chatbot supporting English, Tamil, Hindi, Telugu, and Malayalam with real-time
 - flask-cors
 - deep_translator
 
-### Backend 
-  pip install flask flask-cors deep-translator
-  python app.py
-
 ## Frontend
-  npm i
-  npm run dev
+npm i
+npm run dev
 
