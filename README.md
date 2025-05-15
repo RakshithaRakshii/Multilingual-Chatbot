@@ -17,3 +17,4 @@ A chatbot supporting English, Tamil, Hindi, Telugu, and Malayalam with real-time
 -npm i
 -npm run dev
 
+
