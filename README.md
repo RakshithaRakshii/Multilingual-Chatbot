@@ -14,7 +14,10 @@ A chatbot supporting English, Tamil, Hindi, Telugu, and Malayalam with real-time
 - deep_translator
 
 ## Frontend
--npm i
--npm run dev
+npm i
+
+npm run dev
+
+
 
 
