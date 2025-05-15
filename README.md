@@ -1,18 +1,23 @@
-# Multilingual-Chatbot
+# Multilingual Chatbot
 
-This project is a multilingual chatbot built using React and Vite.
+A chatbot supporting English, Tamil, Hindi, Telugu, and Malayalam with real-time translation and context-aware autocompletion using Gemini API and Bidirectional GRU.
 
----
+## Features
+- Multilingual translation
+- AI-powered autocompletion
+- Session-based context management
 
-# React + Vite
+## Required python libraries
+-tensorflow
+-flask
+-flask-cors
+-deep_translator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Backend 
+pip install flask flask-cors deep-translator
+python app.py
 
-Currently, two official plugins are available:
+## Frontend
+npm i
+npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
